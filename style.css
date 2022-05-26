@@ -142,3 +142,8 @@ body, html {
 .image3 {
 	width:100%;
 }
+
+p {
+	max-width: 70vw;
+	margin: auto;
+}
